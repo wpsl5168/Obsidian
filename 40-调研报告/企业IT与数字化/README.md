@@ -1,7 +1,7 @@
 ---
 title: "企业IT与数字化"
 created: 2026-09-09
-updated: 2026-09-17
+updated: 2026-09-18
 type: meta
 tags: [meta]
 status: stable
@@ -15,6 +15,8 @@ status: stable
 [[index|知识库首页]] · [[40-调研报告/README|上级入口]]
 
 ## 专题调研
+
+- [[40-调研报告/企业IT与数字化/2026-09-18-Azure-SQL-MCP代码审查与M365接入评估|Azure SQL MCP代码审查与M365接入评估]] — 启动与APIM编译阻塞、SQL防护复现、Connector官方边界与第三方写入实验分层；未部署。
 
 - [[40-调研报告/企业IT与数字化/2026-09-17-官方MCP服务与M365-Connector选型|官方 MCP 服务与 M365 Connector 选型]] — 官方托管、OAuth、读写与预览资格；未做租户实连。
 
