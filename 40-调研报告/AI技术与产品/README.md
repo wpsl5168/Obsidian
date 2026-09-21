@@ -1,7 +1,7 @@
 ---
 title: "AI技术与产品"
 created: 2026-09-09
-updated: 2026-09-09
+updated: 2026-09-21
 type: meta
 tags: [meta]
 status: stable
@@ -21,6 +21,10 @@ status: stable
 - [[40-调研报告/AI技术与产品/Agent与研发流程/README|Agent与研发流程]] — 7份现有正文/记录
 
 ## 文档
+
+- [[40-调研报告/AI技术与产品/2026-09-21-RAGFlow能力与本地部署评估|RAGFlow：能力、本地部署与企业落地边界]]
+
+- [[40-调研报告/AI技术与产品/2026-09-21-WeKnora定位与Hermes协作价值|WeKnora：知识管理、Agent 与团队协作边界]]
 
 - [[40-调研报告/AI技术与产品/2026-09-09-SGLang项目分析|SGLang：推理架构、竞争边界与落地价值]]
 
