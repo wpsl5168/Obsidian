@@ -423,6 +423,12 @@ type: meta
 
 - 2026-09-21：新增RAGFlow能力与本地部署评估，核v0.27.2部署组件、本地模型、硬件与内网边界，更新专题索引；只读调研，未部署、未提交推送。
 
+- 2026-09-22：新增《飞书文档MCP与Copilot-Connector实现选型》，核对 azsql-mcp-demo 最终实验与飞书个人托管MCP下线范围，建议自建MCP直接封装REST；更新企业IT专题索引。仅调研，未部署或调用飞书业务写入，未提交Git。
+
+- 2026-09-22：新增《Copilot Studio网页读取与自定义解析选型》，核验HTTP、Custom Connector内联C#、Flow、外部REST/MCP、浏览器自动化及Code Interpreter网络边界；更新企业IT索引，未部署或修改用户租户。
+
+- 2026-09-22：补充Copilot Studio网页解析报告中的Azure Functions部署归属、跨租户鉴权/网络/DLP边界与客户交付建议；未修改Azure资源。
+
 
 ## 2026-09-22 — 每周知识库定向维护
 
