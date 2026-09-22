@@ -1,3 +1,14 @@
+---
+title: OpenRouter与Agent会话接续验收
+created: '2026-09-13'
+updated: '2026-09-22'
+type: research
+tags: [agent, evaluation, tooling]
+status: draft
+created_basis: 报告文件日期；首次Git入库为2026-09-14，不将入库日期当作撰写日期
+maintenance_note: 2026-09-22仅补Frontmatter，正文保持原样；updated不代表事实或外部来源已重新核验。
+---
+
 # 今日深读：Agent 的备用供应商，真的能接班吗？
 
 Mo Moustafa，2026-09-07，《So you want to use OpenRouter?》。[1]

@@ -1,3 +1,14 @@
+---
+title: AI代写与判断力：重读Paul Graham
+created: '2026-09-11'
+updated: '2026-09-22'
+type: research
+tags: [llm, evaluation]
+status: draft
+created_basis: 报告文件日期；首次Git入库为2026-09-12，不将入库日期当作撰写日期
+maintenance_note: 2026-09-22仅补Frontmatter，正文保持原样；updated不代表事实或外部来源已重新核验。
+---
+
 ## 一句话裁决
 
 AI成品质量越趋同，越需要单独检验人的判断力；关键岗位应验收撤掉AI、改变条件后的推理，而不是亲手写了多少字。

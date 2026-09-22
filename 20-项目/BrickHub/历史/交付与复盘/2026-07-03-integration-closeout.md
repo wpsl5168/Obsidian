@@ -1,3 +1,14 @@
+---
+title: BrickHub Dream B 整合收口 — 2026-07-03
+created: '2026-07-03'
+updated: '2026-09-22'
+type: entity
+tags: [brickhub, workflow]
+status: archived
+created_basis: 正文日期；历史整合记录，本轮未重新核验项目状态
+maintenance_note: 2026-09-22仅补Frontmatter，正文保持原样；updated不代表事实或外部来源已重新核验。
+---
+
 # BrickHub Dream B 整合收口 — 2026-07-03
 
 ## 背景

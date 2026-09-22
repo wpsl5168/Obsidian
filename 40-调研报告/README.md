@@ -1,7 +1,7 @@
 ---
 title: "40-调研报告"
 created: 2026-09-09
-updated: 2026-09-09
+updated: 2026-09-22
 type: meta
 tags: [meta]
 status: stable
@@ -30,6 +30,15 @@ status: stable
 
 - [[40-调研报告/设计与视觉/README|设计与视觉]] — 1份现有正文/记录
 
+
+## 现有根目录报告（待专题归位）
+
+以下仅补阅读入口，不移动正文，也不表示内容已在本轮重新核验；后续新稿仍按专题目录写入。
+
+- [[40-调研报告/2026-09-12-Centrus与Palantir三亿美元节省核查|Centrus 与 Palantir：三亿美元节省与技术细节核查]]
+- [[40-调研报告/2026-09-12-Palantir企业转型的实际做法与收益核算|Palantir 企业转型的实际做法与收益核算]]
+- [[40-调研报告/2026-09-12-Mate80本地Linux虚机-HiSH方案|Mate 80 本地 Linux 虚机：HiSH 方案]]
+- [[40-调研报告/Copilot Studio 邮件触发飞书本人通知：身份与部署边界|Copilot Studio 邮件触发飞书本人通知：身份与部署边界]]
 
 <details>
 <summary>原有说明与历史导航（完整保留；目录以本页上方为准）</summary>
