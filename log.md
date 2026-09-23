@@ -436,3 +436,8 @@ type: meta
 - 为6篇既有稿补Frontmatter，保留正文；历史状态与待核验边界在metadata中标明。英语时态速查表创建日期未知、当日未提交新稿均暂留。
 - 40-调研报告/README补4篇既有根目录报告入口；不移动正文，不修改首页或taxonomy。
 - 审计与备份：`~/.hermes/workspaces/kb-weekly-2026-09-22/`；残留元数据问题见工作区报告，不据此宣称全库健康。
+
+
+## 2026-09-23 — Azure App Service MCP 托管核查
+
+新增《2026-09-23-Azure-App-Service托管现有MCP可行性》，核官方托管文档与SQL/飞书项目；区分协议无状态与SQLite/flock业务状态，更新企业IT专题索引。仅调研归档，未改代码、未创建Azure资源、未部署或提交Git。
