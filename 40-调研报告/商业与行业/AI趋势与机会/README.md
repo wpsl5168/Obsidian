@@ -16,6 +16,8 @@ status: stable
 
 ## 文档
 
+- [[40-调研报告/商业与行业/AI趋势与机会/2026-10-01-AI推荐系统与冷启动-Benedict-Evans|2026-10-01 · AI 推荐系统与冷启动 — Benedict Evans 原文要点梳理（原文 2025-11-23）]]
+
 - [[40-调研报告/商业与行业/AI趋势与机会/2026-04-Karpathy-Sequoia-Ascent-Software3.0|Karpathy @ Sequoia Ascent 2026 · Software 3.0 / Agentic Engineering / Jagged Intelligence]]
 
 - [[40-调研报告/商业与行业/AI趋势与机会/2026-AI风口-张雪峰视角|2026 AI 风口 · 张雪峰视角终稿]]
