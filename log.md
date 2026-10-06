@@ -453,3 +453,10 @@ type: meta
 - 本页Python纯函数10项单元测试通过；未调用模型、审批系统或生产写接口。Schema及WikiLink复验未新增问题；原有脏README与当天新稿保留。
 - 本轮授权精确文件提交推送，Git结果与审计原始证据存 `~/.hermes/workspaces/kb-weekly-2026-10-06/`。
 
+## [2026-10-06] update | 每周维护 Phase 3：缺失 Frontmatter 定向修复
+
+- 为已全文审阅的12篇缺头文章补title、created、updated、type、tags与status；状态保守为draft，created注明采用Git首次添加日期，不宣称原稿时间。元数据前置，12篇原始正文逐字保留并通过哈希验证；具体路径见任务目录 metadata-applied.json。
+- 未修改已有元数据中的业务标签或taxonomy；当天未提交新稿与其脏README原样保留。未发现本轮覆盖内的真实WikiLink坏目标/坏锚点，无需删除引用；未向首页堆文章入口。
+- 标准linter：缺Frontmatter 13→1，WARN仍51。真实YAML补充审计：Schema问题涉及文件38→26，残留清单包含linter漏报的空tags、状态/类型问题及未注册标签，不宣称全库健康。
+- 审计覆盖284个Schema页面、全库837个Markdown仅作枚举；普通Markdown链接、HTML锚点及外部URL未全量检查。原始基线未写入，审计报告保存在任务工作区。
+

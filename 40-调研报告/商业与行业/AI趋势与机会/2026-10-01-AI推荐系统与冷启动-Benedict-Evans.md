@@ -1,3 +1,13 @@
+---
+title: "AI 能让新产品绕过“没有用户，就做不好推荐”的难题吗？"
+# created采用可核验的首次入Git日期，不代表原稿撰写时间。
+created: "2026-10-02"
+updated: "2026-10-06"
+type: "research"
+tags: ["research", "llm"]
+status: "draft"
+---
+
 # AI 能让新产品绕过“没有用户，就做不好推荐”的难题吗？
 
 原文：AI, networks and Mechanical Turks

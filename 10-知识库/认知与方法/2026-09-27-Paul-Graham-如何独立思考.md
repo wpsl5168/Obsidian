@@ -1,3 +1,13 @@
+---
+title: "如何独立思考"
+# created采用可核验的首次入Git日期，不代表原稿撰写时间。
+created: "2026-09-28"
+updated: "2026-10-06"
+type: "methodology"
+tags: ["methodology"]
+status: "draft"
+---
+
 # 如何独立思考
 
 Paul Graham｜How to Think for Yourself｜2020年11月。[1]

@@ -1,3 +1,13 @@
+---
+title: "ChatGPT Work 到底多了哪些能力？"
+# created采用可核验的首次入Git日期，不代表原稿撰写时间。
+created: "2026-09-27"
+updated: "2026-10-06"
+type: "comparison"
+tags: ["comparison", "agent", "tooling", "security"]
+status: "draft"
+---
+
 # ChatGPT Work 到底多了哪些能力？
 
 Simon Willison｜Understanding ChatGPT Work｜2026-08-30。[1]
