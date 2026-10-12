@@ -1,7 +1,7 @@
 ---
 title: "AI技术与产品"
 created: 2026-09-09
-updated: 2026-09-21
+updated: 2026-10-13
 type: meta
 tags: [meta]
 status: stable
@@ -21,6 +21,8 @@ status: stable
 - [[40-调研报告/AI技术与产品/Agent与研发流程/README|Agent与研发流程]] — 7份现有正文/记录
 
 ## 文档
+
+- [[40-调研报告/AI技术与产品/2026-10-13-REA项目研究与Hermes接入评估|REA：逆向分析工具箱与Hermes接入评估]]
 
 - [[40-调研报告/AI技术与产品/2026-10-07-GLM-5.3漏洞利用能力与安全限制-原文梳理|GLM-5.3漏洞利用能力与安全限制：Anthropic原文梳理]]
 

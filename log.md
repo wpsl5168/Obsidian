@@ -460,3 +460,8 @@ type: meta
 - 标准linter：缺Frontmatter 13→1，WARN仍51。真实YAML补充审计：Schema问题涉及文件38→26，残留清单包含linter漏报的空tags、状态/类型问题及未注册标签，不宣称全库健康。
 - 审计覆盖284个Schema页面、全库837个Markdown仅作枚举；普通Markdown链接、HTML锚点及外部URL未全量检查。原始基线未写入，审计报告保存在任务工作区。
 
+## [2026-10-13] ingest | REA项目研究
+
+- 新增 [[40-调研报告/AI技术与产品/2026-10-13-REA项目研究与Hermes接入评估]] 并更新专题README；核对npm 6.4.0、release tag与固定main，区分发布能力、静态审查和待执行试验。
+- 重点记录Hermes注册、.NET/Electron适用性、非沙箱及模型数据边界；未安装、修改生产或提交推送Git。证据目录：`/home/wpsl5168/work/rea-research-20261013/`。
+
