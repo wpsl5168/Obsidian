@@ -472,3 +472,11 @@ type: meta
 - 8项纯Python单元测试通过；arXiv原论文与PyTorch官方源码已读取。未安装PyTorch、未运行GPU或训练真实模型。补充全库审计的execute_code入口被cron策略拒绝，未重试绕过；不把标准linter当完整YAML与锚点审计。
 - 原始审计、精确原件备份与本地测试存 `~/.hermes/workspaces/kb-weekly-2026-10-13/`；保留原有脏README和未提交新稿，仅提交本阶段精确文件。
 
+## [2026-10-13] update | 每周维护 Phase 3：五篇文章补元数据
+
+- 为GLM-5.3安全分析、Agent硬预算、BrowseComp题库泄漏、Jev决策模型、分轮读代码5篇既有研究稿补齐Frontmatter；created注明为Git首次添加日期，status保守为draft，正文原字节保全已验证。
+- 5篇均已有最近README入口，无需追加重复索引；标准linter未报坏目标，本轮不猜改链接。保留当天未提交新稿、已脏索引和既有taxonomy，不按警告数量扩大改写范围。
+- 复验：291个Schema页面，缺Frontmatter由6降为1；WARN保持56条，CRITICAL/WARN涉及的去重文件由15降为10。WARN包含19项缺字段、31次未注册标签使用、3项非法状态、3项非法类型；残留清单见任务目录。INFO由342变为343，新增的是本次实质扩充文章超过200行的长度提示，不拆文或加豁免凑零。
+- 本轮只对修改页进行真实YAML、正文保全和索引验证；全库补充审计因cron策略拒绝未执行，标准linter零坏链不等于全部锚点与外部URL有效。审计基线未写入，完整原始报告和备份位于 `~/.hermes/workspaces/kb-weekly-2026-10-13/`。
+- Phase 2远端已核对：`e53650476b8be59df19afbcdc9353c05049508cd`；Phase 3仅提交5篇元数据及本条日志。
+
