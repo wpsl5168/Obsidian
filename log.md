@@ -465,3 +465,10 @@ type: meta
 - 新增 [[40-调研报告/AI技术与产品/2026-10-13-REA项目研究与Hermes接入评估]] 并更新专题README；核对npm 6.4.0、release tag与固定main，区分发布能力、静态审查和待执行试验。
 - 重点记录Hermes注册、.NET/Electron适用性、非沙箱及模型数据边界；未安装、修改生产或提交推送Git。证据目录：`/home/wpsl5168/work/rea-research-20261013/`。
 
+## [2026-10-13] update | 每周维护 Phase 2：Attention工程验证
+
+- 枚举851个Markdown，标准linter覆盖291个Schema页面；AI专题42页、35篇正文，无符合本轮空洞判据的文章。选择最短正文补工程实例，不凑满6篇。
+- 更新 [[10-知识库/AI模型与Agent/01-基础架构与模型底座/1.1.1-Attention-Is-All-You-Need深度解读]] 及最近README：保留原论证，补Q/K/V维度、因果/padding遮罩、缓存偏移、内存估算与三种注意力优化路线。
+- 8项纯Python单元测试通过；arXiv原论文与PyTorch官方源码已读取。未安装PyTorch、未运行GPU或训练真实模型。补充全库审计的execute_code入口被cron策略拒绝，未重试绕过；不把标准linter当完整YAML与锚点审计。
+- 原始审计、精确原件备份与本地测试存 `~/.hermes/workspaces/kb-weekly-2026-10-13/`；保留原有脏README和未提交新稿，仅提交本阶段精确文件。
+

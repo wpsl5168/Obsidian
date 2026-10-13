@@ -1,7 +1,7 @@
 ---
 title: "01-基础架构与模型底座"
 created: 2026-09-09
-updated: 2026-09-09
+updated: 2026-10-13
 type: meta
 tags: [meta]
 status: stable
@@ -22,7 +22,7 @@ status: stable
 
 - [[10-知识库/AI模型与Agent/01-基础架构与模型底座/1.1-大模型演进与主流架构体系|大模型演进与主流架构体系]]
 
-- [[10-知识库/AI模型与Agent/01-基础架构与模型底座/1.1.1-Attention-Is-All-You-Need深度解读|Attention Is All You Need 深度解读]]
+- [[10-知识库/AI模型与Agent/01-基础架构与模型底座/1.1.1-Attention-Is-All-You-Need深度解读|Attention Is All You Need 深度解读]] — 补因果遮罩、KV-cache偏移和内存估算；含本地验证的纯Python教学代码（2026-10-13）。
 
 - [[10-知识库/AI模型与Agent/01-基础架构与模型底座/1.2-上下文窗口与Token机制|上下文窗口与 Token 机制]]
 
