@@ -1,7 +1,7 @@
 ---
 title: "企业IT与数字化"
 created: 2026-09-09
-updated: 2026-09-23
+updated: 2026-10-18
 type: meta
 tags: [meta]
 status: stable
@@ -15,6 +15,8 @@ status: stable
 [[index|知识库首页]] · [[40-调研报告/README|上级入口]]
 
 ## 专题调研
+
+- [[40-调研报告/企业IT与数字化/2026-10-18-Copilot-Studio与Dataverse业务Lab设计|Copilot Studio与Dataverse业务Lab设计]] — 客户问题处理场景，查历史、对话建单、跨角色跟进；官方能力已核，客户租户未搭建验证。
 
 - [[40-调研报告/企业IT与数字化/2026-09-23-Azure-App-Service托管现有MCP可行性|Azure App Service 托管现有 MCP 可行性]] — SQL 容器可迁；飞书版需处理 loopback 监听、本地状态与文件锁；仅核查，未云端部署。
 

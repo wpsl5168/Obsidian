@@ -1,7 +1,7 @@
 ---
 title: "weekly-digest"
 created: 2026-09-09
-updated: 2026-10-11
+updated: 2026-10-18
 type: meta
 tags: [meta]
 status: stable
@@ -18,8 +18,10 @@ status: stable
 
 <details>
 
-<summary>周报与其他记录 · 110份</summary>
+<summary>周报与其他记录 · 111份</summary>
 
+
+- [[90-治理/weekly-digest/2026-W42-1018|Dream A 周度增量治理 · 10-18]]
 
 - [[90-治理/weekly-digest/2026-W41-1011|Dream A 周度增量治理 · 10-11]]
 

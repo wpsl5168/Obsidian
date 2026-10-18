@@ -480,3 +480,8 @@ type: meta
 - 本轮只对修改页进行真实YAML、正文保全和索引验证；全库补充审计因cron策略拒绝未执行，标准linter零坏链不等于全部锚点与外部URL有效。审计基线未写入，完整原始报告和备份位于 `~/.hermes/workspaces/kb-weekly-2026-10-13/`。
 - Phase 2远端已核对：`e53650476b8be59df19afbcdc9353c05049508cd`；Phase 3仅提交5篇元数据及本条日志。
 
+## [2026-10-18] ingest | Copilot Studio与Dataverse业务Lab
+
+- 新增 [[40-调研报告/企业IT与数字化/2026-10-18-Copilot-Studio与Dataverse业务Lab设计]] 并更新最近专题README；以客户问题处理贯穿多表查询、确认建单、跨角色跟进，列明知识源、CRUD、连接身份及许可边界。
+- 已读取微软官方文档；仅为场景方案，未搭建客户租户或声称实验已跑通。保留原有脏改动，未commit/push。
+
