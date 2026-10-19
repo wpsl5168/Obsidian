@@ -1,7 +1,7 @@
 ---
 title: "Agent与研发流程"
 created: 2026-09-09
-updated: 2026-10-17
+updated: 2026-10-19
 type: meta
 tags: [meta]
 status: stable
@@ -15,6 +15,8 @@ status: stable
 [[index|知识库首页]] · [[40-调研报告/AI技术与产品/README|上级入口]]
 
 ## 文档
+
+- [[40-调研报告/AI技术与产品/Agent与研发流程/2026-10-19-子Agent怎么帮助主Agent处理更大的任务|子 Agent 怎么帮助主 Agent 处理更大的任务？]] — Simon Willison 原文要点梳理；独立上下文、Explore代码定位、并行和专门角色，保留互不依赖前提、上下文预算与不要过度拆分的提醒。
 
 - [[40-调研报告/AI技术与产品/Agent与研发流程/2026-10-17-AI降低移植成本后重新尝试Unikernel|AI 降低了移植成本，Unikernel 值得重新尝试吗？]] — Geoffrey Huntley 对谈整理要点；补库、可运行对照、多机测试与编译反馈，保留安全异议、存储延迟、原型未发布和历史试验成本口径。
 
