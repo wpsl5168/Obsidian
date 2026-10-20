@@ -1,7 +1,7 @@
 ---
 title: "Agent与研发流程"
 created: 2026-09-09
-updated: 2026-10-19
+updated: 2026-10-20
 type: meta
 tags: [meta]
 status: stable
@@ -15,6 +15,8 @@ status: stable
 [[index|知识库首页]] · [[40-调研报告/AI技术与产品/README|上级入口]]
 
 ## 文档
+
+- [[40-调研报告/AI技术与产品/Agent与研发流程/2026-10-20-让Agent连续开发换一轮会话怎样接着干|让 Agent 连续开发：换一轮会话，怎样接着干？]] — Justin Young 原文要点梳理；功能清单、增量交接、版本恢复与浏览器测试，保留历史模型、提示和工具介入、弹窗盲区及全栈应用范围。
 
 - [[40-调研报告/AI技术与产品/Agent与研发流程/2026-10-19-子Agent怎么帮助主Agent处理更大的任务|子 Agent 怎么帮助主 Agent 处理更大的任务？]] — Simon Willison 原文要点梳理；独立上下文、Explore代码定位、并行和专门角色，保留互不依赖前提、上下文预算与不要过度拆分的提醒。
 
