@@ -1,7 +1,7 @@
 ---
 title: "01-基础架构与模型底座"
 created: 2026-09-09
-updated: 2026-10-13
+updated: 2026-10-20
 type: meta
 tags: [meta]
 status: stable
@@ -20,7 +20,7 @@ status: stable
 
 ## 文档
 
-- [[10-知识库/AI模型与Agent/01-基础架构与模型底座/1.1-大模型演进与主流架构体系|大模型演进与主流架构体系]]
+- [[10-知识库/AI模型与Agent/01-基础架构与模型底座/1.1-大模型演进与主流架构体系|大模型演进与主流架构体系]] — 官方发布节点纠错、Dense/MoE与训练成本边界；补SQL工单/.NET迁移选型及纯Python任务成本核算（2026-10-20）。
 
 - [[10-知识库/AI模型与Agent/01-基础架构与模型底座/1.1.1-Attention-Is-All-You-Need深度解读|Attention Is All You Need 深度解读]] — 补因果遮罩、KV-cache偏移和内存估算；含本地验证的纯Python教学代码（2026-10-13）。
 
