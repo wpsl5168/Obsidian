@@ -493,3 +493,11 @@ type: meta
 - 标准linter起始为5 CRITICAL、62 WARN，去重15页；真实YAML补审计涉及32页。日基线不是周增量，未改基线；未全量检查普通Markdown链接和外部URL。
 - 原稿备份、审计、候选清单与测试：`~/.hermes/workspaces/kb-weekly-2026-10-20/`。保留原有脏索引与当天新稿，只提交本阶段精确文件。
 
+## [2026-10-20] update | 每周维护 Phase 3：四篇研究稿补元数据
+
+- 为10月13日持续开发验收、16日版本管理、17日Unikernel、19日子Agent四篇研究稿补Frontmatter。created明确采用Git首次添加日期，status保守为draft；四篇原正文逐字节不变并通过验证。
+- 四篇均已有最近README入口，不重复加索引；当天未提交新稿及其脏README原样保留。未改taxonomy、已有野生标签或其他状态字段。
+- 复验297个Schema页面：缺Frontmatter 5→1，WARN仍62，CRITICAL/WARN去重页15→11；真实YAML问题涉及页32→28。剩余缺头页是当天未提交新稿。WikiLink页目标与基础标题/block锚点补审计未发现候选，不声称普通Markdown链接、复杂锚点与外部URL全量健康。
+- INFO 350→351，新增为实质更新文章的长度提示，不据此拆文。14项文内代码测试通过，原始日基线未改；完整问题清单与剩余项存任务工作区。
+- Phase 2已核远端：`9252eb0fc179384ecd7ed6ca810baee55673b94e`；本阶段仅提交4篇元数据及此日志。
+

@@ -1,3 +1,14 @@
+---
+title: "AI 降低了移植成本，Unikernel 值得重新尝试吗？"
+created: 2026-10-18
+created_basis: "Git首次添加日期；非原文发表或实际撰写日期"
+updated: 2026-10-20
+type: research
+tags: [agent, research]
+status: draft
+sources:
+  - https://ghuntley.com/unikernels
+---
 # AI 降低了移植成本，Unikernel 值得重新尝试吗？
 
 Geoffrey Huntley｜个人博客｜2026-10-10
