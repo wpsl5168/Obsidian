@@ -1,7 +1,7 @@
 ---
 title: "Agent与研发流程"
 created: 2026-09-09
-updated: 2026-10-21
+updated: 2026-10-22
 type: meta
 tags: [meta]
 status: stable
@@ -15,6 +15,8 @@ status: stable
 [[index|知识库首页]] · [[40-调研报告/AI技术与产品/README|上级入口]]
 
 ## 文档
+
+- [[40-调研报告/AI技术与产品/Agent与研发流程/2026-10-22-Battle-Drones从能运行到更好玩的迭代|让 AI 把游戏做得更好玩：Battle Drones 的迭代过程]] — Simon Willison 原文要点梳理；通宵模拟、人工设计、模型对战与确定性回放，保留音频头痛后的网络联机更新、测试条件和成本估算边界。
 
 - [[40-调研报告/AI技术与产品/Agent与研发流程/2026-10-21-Claude系统提示变更与公开边界|Claude 的系统提示改了什么，又有哪些没公开？]] — Simon Willison 原文要点梳理；版权规则、答复风格、工具附加层与 Git 追踪，保留历史产品范围、模型自述和合成提交的限定。
 
