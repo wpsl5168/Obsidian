@@ -1,7 +1,7 @@
 ---
 title: "Agent与研发流程"
 created: 2026-09-09
-updated: 2026-10-22
+updated: 2026-10-24
 type: meta
 tags: [meta]
 status: stable
@@ -15,6 +15,8 @@ status: stable
 [[index|知识库首页]] · [[40-调研报告/AI技术与产品/README|上级入口]]
 
 ## 文档
+
+- [[40-调研报告/AI技术与产品/Agent与研发流程/2026-10-24-Python新版发布与旧版兼容负担|Python 3.15 发布了，他为什么才开始用 3.11？]] — Simon Willison 原文要点梳理；插件启动、采样分析、运行时迁移与兼容底线，保留候选版 JIT 测试条件、项目版本优先级及 PR/计划状态。
 
 - [[40-调研报告/AI技术与产品/Agent与研发流程/2026-10-22-Battle-Drones从能运行到更好玩的迭代|让 AI 把游戏做得更好玩：Battle Drones 的迭代过程]] — Simon Willison 原文要点梳理；通宵模拟、人工设计、模型对战与确定性回放，保留音频头痛后的网络联机更新、测试条件和成本估算边界。
 
