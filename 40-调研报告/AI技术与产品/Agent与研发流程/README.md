@@ -1,7 +1,7 @@
 ---
 title: "Agent与研发流程"
 created: 2026-09-09
-updated: 2026-10-24
+updated: 2026-10-25
 type: meta
 tags: [meta]
 status: stable
@@ -15,6 +15,8 @@ status: stable
 [[index|知识库首页]] · [[40-调研报告/AI技术与产品/README|上级入口]]
 
 ## 文档
+
+- [[40-调研报告/AI技术与产品/Agent与研发流程/2026-10-25-Agent能跑脚本为什么还需要Codemode|Agent 已经能跑脚本，为什么还需要 Codemode？]] — Armin Ronacher 原文要点梳理；宿主编排、批量处理、按需工具发现与嵌套代价，保留执行边界、输入限制、接口缺口及未解决的可靠续跑问题。
 
 - [[40-调研报告/AI技术与产品/Agent与研发流程/2026-10-24-Python新版发布与旧版兼容负担|Python 3.15 发布了，他为什么才开始用 3.11？]] — Simon Willison 原文要点梳理；插件启动、采样分析、运行时迁移与兼容底线，保留候选版 JIT 测试条件、项目版本优先级及 PR/计划状态。
 
