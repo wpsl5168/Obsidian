@@ -1,7 +1,7 @@
 ---
 title: "Agent与研发流程"
 created: 2026-09-09
-updated: 2026-10-25
+updated: 2026-10-26
 type: meta
 tags: [meta]
 status: stable
@@ -15,6 +15,8 @@ status: stable
 [[index|知识库首页]] · [[40-调研报告/AI技术与产品/README|上级入口]]
 
 ## 文档
+
+- [[40-调研报告/AI技术与产品/Agent与研发流程/2026-10-26-让Agent录制新功能的操作演示|让 Agent 把新功能操作一遍，录成演示视频]] — Simon Willison 原文要点梳理；步骤脚本、受控网页演示与文档驱动设计，保留人的提示、模拟剪贴板、开发中功能和录屏依赖版本边界。
 
 - [[40-调研报告/AI技术与产品/Agent与研发流程/2026-10-25-Agent能跑脚本为什么还需要Codemode|Agent 已经能跑脚本，为什么还需要 Codemode？]] — Armin Ronacher 原文要点梳理；宿主编排、批量处理、按需工具发现与嵌套代价，保留执行边界、输入限制、接口缺口及未解决的可靠续跑问题。
 
