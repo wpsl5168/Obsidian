@@ -1,7 +1,7 @@
 ---
 title: "Agent与研发流程"
 created: 2026-09-09
-updated: 2026-10-28
+updated: 2026-10-29
 type: meta
 tags: [meta]
 status: stable
@@ -15,6 +15,8 @@ status: stable
 [[index|知识库首页]] · [[40-调研报告/AI技术与产品/README|上级入口]]
 
 ## 文档
+
+- [[40-调研报告/AI技术与产品/Agent与研发流程/2026-10-29-Claude-Code自动审批如何减少打断与越权|不想反复点“批准”，能让另一个模型替你把关吗？]] — John Hughes / Anthropic 原文要点梳理；输入警告、动作审批与子Agent交接，保留三组测试分母、误拦与漏拦取舍、授权误判及人工审核边界。
 
 - [[40-调研报告/AI技术与产品/Agent与研发流程/2026-10-28-工具接上了Agent为什么还是用不好|工具接上了，Agent 为什么还是用不好？]] — Ken Aizawa / Anthropic 原文要点梳理；真实任务评测、工具职责、返回信息与迭代，保留内部测试范围、留出题、后续ID需求及历史响应限制。
 
