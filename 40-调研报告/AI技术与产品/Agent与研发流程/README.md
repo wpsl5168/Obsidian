@@ -1,7 +1,7 @@
 ---
 title: "Agent与研发流程"
 created: 2026-09-09
-updated: 2026-10-31
+updated: 2026-11-01
 type: meta
 tags: [meta]
 status: stable
@@ -15,6 +15,8 @@ status: stable
 [[index|知识库首页]] · [[40-调研报告/AI技术与产品/README|上级入口]]
 
 ## 文档
+
+- [[40-调研报告/AI技术与产品/Agent与研发流程/2026-11-01-把会议胸牌变成Game-Boy-Color|把会议胸牌变成 Game Boy Color，难在哪？]] — Steve Francia 原文要点梳理；与 Gemini 合作开发、内存映射与加载、总线超频和游戏兼容性修复，保留实机测量口径、显示取舍与合法自备 ROM 条件。
 
 - [[40-调研报告/AI技术与产品/Agent与研发流程/2026-10-31-AI做游戏从能运行到愿意玩|让 AI 做游戏：从能运行，到作者真的愿意玩]] — Simon Willison 原文要点梳理；四个游戏的生成与试玩过程，保留人机耗时区别、模型比较非系统评测、联机服务器、未完成玩法及社区分歧。
 
