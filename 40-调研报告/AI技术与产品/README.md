@@ -1,7 +1,7 @@
 ---
 title: "AI技术与产品"
 created: 2026-09-09
-updated: 2026-10-13
+updated: 2026-11-02
 type: meta
 tags: [meta]
 status: stable
@@ -21,6 +21,8 @@ status: stable
 - [[40-调研报告/AI技术与产品/Agent与研发流程/README|Agent与研发流程]] — 7份现有正文/记录
 
 ## 文档
+
+- [[40-调研报告/AI技术与产品/2026-11-02-Qwenputer把计算机装进模型权重|Qwenputer：把一台计算机装进大模型权重]] — Divyansh Agrawal 原文要点梳理；内部精确内存、编译CPU、算术评测与跨会话文件，保留驱动依赖、分组测试、速度单位和实验限制。
 
 - [[40-调研报告/AI技术与产品/2026-10-13-REA项目研究与Hermes接入评估|REA：逆向分析工具箱与Hermes接入评估]]
 
