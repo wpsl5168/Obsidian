@@ -1,3 +1,16 @@
+---
+title: "让 AI 把游戏做得更好玩：Battle Drones 的迭代过程"
+created: 2026-10-23
+created_basis: "Git首次添加日期，非原稿撰写日期"
+updated: 2026-11-03
+type: research
+tags: [agentic-coding, evaluation, research]
+status: draft
+maintenance_note: "本轮仅补元数据；正文保留作者试玩、模拟指标和估算的区别，未重新复现实验"
+sources:
+  - https://simonwillison.net/2026/Oct/20/battledrones
+---
+
 # 让 AI 把游戏做得更好玩：Battle Drones 的迭代过程
 
 Simon Willison｜个人博客｜2026-10-20，含原文后续更新。[1]
