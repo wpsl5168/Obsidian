@@ -1,7 +1,7 @@
 ---
 title: "Agent与研发流程"
 created: 2026-09-09
-updated: 2026-11-01
+updated: 2026-11-03
 type: meta
 tags: [meta]
 status: stable
@@ -15,6 +15,8 @@ status: stable
 [[index|知识库首页]] · [[40-调研报告/AI技术与产品/README|上级入口]]
 
 ## 文档
+
+- [[40-调研报告/AI技术与产品/Agent与研发流程/2026-11-03-ChatGPT共享会话如何越过预览隔离|点开共享会话，为什么能读到别人的私密聊天？]] — Mukul Goyal / Parameter Labs 原文要点梳理；图表组件消息校验、预览隔离与跨功能漏洞链，保留登录及点击条件、三次自动复现、少量数据外传与双前端修复范围。
 
 - [[40-调研报告/AI技术与产品/Agent与研发流程/2026-11-01-把会议胸牌变成Game-Boy-Color|把会议胸牌变成 Game Boy Color，难在哪？]] — Steve Francia 原文要点梳理；与 Gemini 合作开发、内存映射与加载、总线超频和游戏兼容性修复，保留实机测量口径、显示取舍与合法自备 ROM 条件。
 
