@@ -1,7 +1,7 @@
 ---
 title: "03-工具调用与上下文协议"
 created: 2026-09-09
-updated: 2026-09-09
+updated: 2026-11-03
 type: meta
 tags: [meta]
 status: stable
@@ -24,7 +24,7 @@ status: stable
 
 - [[10-知识库/AI模型与Agent/03-工具调用与上下文协议/3.2-Model_Context_Protocol规范解析|Model Context Protocol 规范解析]]
 
-- [[10-知识库/AI模型与Agent/03-工具调用与上下文协议/3.2.1-MCP-Server生态系统|MCP Server 生态系统]]
+- [[10-知识库/AI模型与Agent/03-工具调用与上下文协议/3.2.1-MCP-Server生态系统|MCP Server 生态系统]] — 2026-11-03 补 Registry 版本边界、升级审批与撤销验证；未安装外部服务。
 
 - [[10-知识库/AI模型与Agent/03-工具调用与上下文协议/3.2.2-MCP-SDK开发实战|MCP SDK 与开发实战]]
 

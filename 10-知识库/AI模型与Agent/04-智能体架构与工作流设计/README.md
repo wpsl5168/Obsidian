@@ -1,7 +1,7 @@
 ---
 title: "04-智能体架构与工作流设计"
 created: 2026-09-09
-updated: 2026-10-06
+updated: 2026-11-03
 type: meta
 tags: [meta]
 status: stable
@@ -28,7 +28,7 @@ status: stable
 
 - [[10-知识库/AI模型与Agent/04-智能体架构与工作流设计/4.1.1-Agent认知架构与主流框架2026|Agent 认知架构与主流框架 (2026)]]
 
-- [[10-知识库/AI模型与Agent/04-智能体架构与工作流设计/4.2-Agent-Loop概念与coding-agent创始人观点|Agent Loop(智能体循环)概念与 coding agent 创始人观点]]
+- [[10-知识库/AI模型与Agent/04-智能体架构与工作流设计/4.2-Agent-Loop概念与coding-agent创始人观点|Agent Loop(智能体循环)概念与 coding agent 创始人观点]] — 2026-11-03 补停止状态、产物绑定验收与跨会话交接；历史人物观点保留时效边界。
 
 - [[10-知识库/AI模型与Agent/04-智能体架构与工作流设计/4.2-工作流编排模式|工作流编排模式]]
 
