@@ -1,7 +1,7 @@
 ---
 title: "Agent与研发流程"
 created: 2026-09-09
-updated: 2026-11-03
+updated: 2026-11-07
 type: meta
 tags: [meta]
 status: stable
@@ -15,6 +15,8 @@ status: stable
 [[index|知识库首页]] · [[40-调研报告/AI技术与产品/README|上级入口]]
 
 ## 文档
+
+- [[40-调研报告/AI技术与产品/Agent与研发流程/2026-11-07-让Agent对照源码写导读|AI 把程序写好了，怎样补上自己没看懂的部分？]] — Simon Willison 原文要点梳理；先读源码再规划导读、Showboat记录命令与实际代码片段，保留六个Swift文件、人工提示和约40分钟玩具项目的时间口径。
 
 - [[40-调研报告/AI技术与产品/Agent与研发流程/2026-11-03-ChatGPT共享会话如何越过预览隔离|点开共享会话，为什么能读到别人的私密聊天？]] — Mukul Goyal / Parameter Labs 原文要点梳理；图表组件消息校验、预览隔离与跨功能漏洞链，保留登录及点击条件、三次自动复现、少量数据外传与双前端修复范围。
 
