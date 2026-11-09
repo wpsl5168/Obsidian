@@ -1,7 +1,7 @@
 ---
 title: "AI日报"
 created: 2026-09-09
-updated: 2026-11-08
+updated: 2026-11-09
 type: meta
 tags: [meta]
 status: stable
@@ -18,7 +18,9 @@ status: stable
 
 <details>
 
-<summary>2026-11 · 8份</summary>
+<summary>2026-11 · 9份</summary>
+
+- [[50-日报与动态/AI日报/2026-11-09|AI 圈日报 2026-11-09]]
 
 - [[50-日报与动态/AI日报/2026-11-08|AI 圈日报 2026-11-08]]
 
