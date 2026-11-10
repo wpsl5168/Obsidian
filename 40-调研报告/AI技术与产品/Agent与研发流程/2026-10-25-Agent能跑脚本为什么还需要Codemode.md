@@ -1,3 +1,13 @@
+---
+title: Agent 已经能跑脚本，为什么还需要 Codemode？
+type: research
+tags: [research, agent, tooling, mcp, architecture, context-engineering]
+status: draft
+created: 2026-10-26
+created_basis: Git 跟随重命名历史的首次添加提交日期（提交者时间，原始时区 +08:00）；提交 5a9c9507f02bb8ee72fedea205e3d18b45e8ad8a，2026-10-26T04:31:10+08:00；不是实际写作日期，也不是引用原文发布日期。
+updated: 2026-11-10
+---
+
 # Agent 已经能跑脚本，为什么还需要 Codemode？
 
 原文：What is Codemode

@@ -1,3 +1,13 @@
+---
+title: 不想反复点“批准”，能让另一个模型替你把关吗？
+type: research
+tags: [research, claude-code, agent, security, workflow, evaluation]
+status: draft
+created: 2026-10-30
+created_basis: Git 跟随重命名历史的首次添加提交日期（提交者时间，原始时区 +08:00）；提交 792a594a0f639330770fd598076324bfdccc9330，2026-10-30T04:30:46+08:00；不是实际写作日期，也不是引用原文发布日期。
+updated: 2026-11-10
+---
+
 # 不想反复点“批准”，能让另一个模型替你把关吗？
 
 原文：How we built Claude Code auto mode: a safer way to skip permissions
