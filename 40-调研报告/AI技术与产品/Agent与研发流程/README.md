@@ -1,7 +1,7 @@
 ---
 title: "Agent与研发流程"
 created: 2026-09-09
-updated: 2026-11-09
+updated: 2026-11-11
 type: meta
 tags: [meta]
 status: stable
@@ -15,6 +15,8 @@ status: stable
 [[index|知识库首页]] · [[40-调研报告/AI技术与产品/README|上级入口]]
 
 ## 文档
+
+- [[40-调研报告/AI技术与产品/Agent与研发流程/2026-11-11-AI写的PR说明太长怎样让人愿意读|AI 写的代码改动说明太长，怎样让人愿意读？]] — Simon Willison 原文要点梳理；人工精选导语、截图与可展开的完整AI说明，保留模型来源、编辑脚本触发条件和个人体验边界。
 
 - [[40-调研报告/AI技术与产品/Agent与研发流程/2026-11-09-SQLite小函数的C与Rust实现比较|同一个 SQLite 小函数，为什么 C 起初比 Rust 慢？]] — Simon Willison 原文及配套报告要点梳理；统一解析规则、常见输入优化、代码与构建成本，保留人工提示、AI生成声明、扣除基线的计时口径及平台边界。
 
