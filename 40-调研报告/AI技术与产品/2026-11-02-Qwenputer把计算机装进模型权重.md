@@ -1,3 +1,13 @@
+---
+title: "把一台计算机装进大模型权重，能让它算得更准吗？"
+# created 采用 Git 历史首次添加提交的作者日期（+08:00）；仅表示首次入库记录，不代表实际创作日或原文发布日期。
+created: 2026-11-03
+updated: 2026-11-17
+type: research
+tags: [research, llm, architecture, memory, evaluation]
+status: draft
+---
+
 # 把一台计算机装进大模型权重，能让它算得更准吗？
 
 作者：Divyansh Agrawal｜个人博客，2026-10-22。[1]
