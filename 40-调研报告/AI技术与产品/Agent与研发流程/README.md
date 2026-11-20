@@ -1,7 +1,7 @@
 ---
 title: "Agent与研发流程"
 created: 2026-09-09
-updated: 2026-11-18
+updated: 2026-11-20
 type: meta
 tags: [meta]
 status: stable
@@ -15,6 +15,8 @@ status: stable
 [[index|知识库首页]] · [[40-调研报告/AI技术与产品/README|上级入口]]
 
 ## 文档
+
+- [[40-调研报告/AI技术与产品/Agent与研发流程/2026-11-20-把Agent的代码执行放进外部沙箱|让 Agent 执行代码，又不把整台电脑交给它]] — Simon Willison / Prime Radiant 原文要点梳理；执行环境分离、统一接口、网络代理和凭据替换，保留客户端隔离差异、模拟模型测试、凭据回显与原型审计边界。
 
 - [[40-调研报告/AI技术与产品/Agent与研发流程/2026-11-18-Agent记忆如何选择纠错与组织|Agent 的记忆怎样变得有用，又怎样避免记错？]] — Lance Martin / Anthropic 原文要点梳理；验证规则、后台纠错、wiki与搜索、合同写入保真，保留单次游戏比较、评分口径、计算成本和实时性边界。
 
