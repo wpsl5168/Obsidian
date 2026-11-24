@@ -1,7 +1,7 @@
 ---
 title: "01-基础架构与模型底座"
 created: 2026-09-09
-updated: 2026-10-20
+updated: 2026-11-25
 type: meta
 tags: [meta]
 status: stable
@@ -24,7 +24,7 @@ status: stable
 
 - [[10-知识库/AI模型与Agent/01-基础架构与模型底座/1.1.1-Attention-Is-All-You-Need深度解读|Attention Is All You Need 深度解读]] — 补因果遮罩、KV-cache偏移和内存估算；含本地验证的纯Python教学代码（2026-10-13）。
 
-- [[10-知识库/AI模型与Agent/01-基础架构与模型底座/1.2-上下文窗口与Token机制|上下文窗口与 Token 机制]]
+- [[10-知识库/AI模型与Agent/01-基础架构与模型底座/1.2-上下文窗口与Token机制|上下文窗口与 Token 机制]] — 跨厂缓存计数、共享/分离窗口、能力发现与两类工程实例；含本地验证的Python门禁，云端SDK/.NET示例未实测（2026-11-25）。
 
 - [[10-知识库/AI模型与Agent/01-基础架构与模型底座/1.3-多模态能力原理与应用|多模态能力原理与应用]]
 
