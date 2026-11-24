@@ -1,7 +1,7 @@
 ---
 title: Cool Math Games 调研
 created: 2026-05-26
-updated: 2026-09-09
+updated: 2026-11-25
 type: research
 tags: [research, family]
 status: stable
@@ -100,5 +100,5 @@ sources:
 
 ## 关联
 
-- [[README.md]]（Khan Academy 调研入口）
+- [[40-调研报告/教育与升学/教育产品/khan-academy/README|Khan Academy 调研入口]]
 - [[40-调研报告/教育与升学/教育产品/khan-academy/04-用户口碑与学术效果.md]]

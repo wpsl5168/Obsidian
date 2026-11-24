@@ -1,3 +1,13 @@
+---
+title: 什么样的坚持有用？
+created: 2026-11-05
+created_basis: git-first-add-author-date; not original writing date
+updated: 2026-11-25
+type: research
+tags: [research, methodology]
+status: draft
+sources: [https://www.paulgraham.com/persistence.html]
+---
 # 什么样的坚持有用？
 
 Paul Graham｜《The Right Kind of Stubborn》｜2024年7月。[1]

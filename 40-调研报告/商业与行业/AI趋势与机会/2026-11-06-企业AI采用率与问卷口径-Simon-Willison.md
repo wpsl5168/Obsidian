@@ -1,3 +1,13 @@
+---
+title: 企业 AI 采用率变高了，问卷也变了
+created: 2026-11-07
+created_basis: git-first-add-author-date; not original writing date
+updated: 2026-11-25
+type: research
+tags: [research, evaluation]
+status: draft
+sources: [https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence]
+---
 # 企业 AI 采用率变高了，问卷也变了
 
 原文：The U.S. Census Bureau and “Super Intelligence”
